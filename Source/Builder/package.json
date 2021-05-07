@@ -21,7 +21,7 @@
     "gulp-print": "5.0.2",
     "jsonpath": "1.0.2",
     "lodash": "4.17.15",
-    "underscore": "1.9.2",
+    "underscore": "1.12.1",
     "vinyl": "2.2.0"
   }
 }
